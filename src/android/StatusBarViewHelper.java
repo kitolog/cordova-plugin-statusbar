@@ -56,6 +56,7 @@ public class StatusBarViewHelper {
         //If not fullscreen, then we have to take the status bar into consideration (represented by r.top)
         //r.bottom defines the keyboard, or navigation bar, or both.
 
-        return isFullscreen ? r.bottom : r.bottom - r.top;
+        //return isFullscreen ? r.bottom : r.bottom - r.top;
+        return r.bottom - r.top;
     }
 }
