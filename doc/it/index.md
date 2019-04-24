@@ -17,7 +17,8 @@
     under the License.
 -->
 
-# cordova-plugin-statusbar
+# cordova-plugin-statusbar-fixed
+Contains extra fixes for statusbar calculation
 
 # StatusBar
 
@@ -25,7 +26,7 @@
 
 ## Installazione
 
-    cordova plugin add cordova-plugin-statusbar
+    cordova plugin add cordova-plugin-statusbar-fixed
     
 
 ## Preferenze

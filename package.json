@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-statusbar",
-  "version": "2.4.3-dev",
+  "name": "cordova-plugin-statusbar-fixed",
+  "version": "2.4.4",
   "description": "Cordova StatusBar Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-statusbar",
+    "id": "cordova-plugin-statusbar-fixed",
     "platforms": [
       "android",
       "ios",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-statusbar"
+    "url": "https://github.com/kitolog/cordova-plugin-statusbar-fixed"
   },
   "bugs": {
     "url": "https://issues.apache.org/jira/browse/CB"
